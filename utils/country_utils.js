@@ -149,7 +149,7 @@ var countryData = [
 	{ country: 'Mauritania', iso2: 'MR', iso3: 'MRT', id: 478, lat: 20, long: -12 },
 	{ country: 'Mauritius', iso2: 'MU', iso3: 'MUS', id: 480, lat: -20.2833, long: 57.55 },
 	{ country: 'Mayotte', iso2: 'YT', iso3: 'MYT', id: 175, lat: -12.8333, long: 45.1667 },
-	{ country: 'Mexico', iso2: 'MX', iso3: 'MEX', id: 484, lat: 23, long: -102 },
+	{ country: 'México', iso2: 'MX', iso3: 'MEX', id: 484, lat: 23, long: -102 },
 	{ country: 'Micronesia, Federated States of', iso2: 'FM', iso3: 'FSM', id: 583, lat: 6.9167, long: 158.25 },
 	{ country: 'Moldova, Republic of', iso2: 'MD', iso3: 'MDA', id: 498, lat: 47, long: 29, possibleNames: ['moldova'] },
 	{ country: 'Monaco', iso2: 'MC', iso3: 'MCO', id: 492, lat: 43.7333, long: 7.4 },
